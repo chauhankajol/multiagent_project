@@ -2,8 +2,11 @@ langchain
 langchain-core
 langchain-community
 langchain-mistralai
+langchain-groq
+langgraph
 
 mistralai
+groq
 
 tavily-python
 
@@ -16,25 +19,19 @@ httpx
 python-dotenv
 
 pydantic
+typing-extensions
 
 tiktoken
-
-typing-extensions
 
 pandas
 numpy
 
 rich
 
+streamlit
+gradio
+
 fastapi
 uvicorn
-
-streamlit
-
-chromadb
-
-sentence-transformers
-
-faiss-cpu
 
 langsmith
