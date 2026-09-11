@@ -1,6 +1,6 @@
 
 from langchain.agents import create_agent
-from langchain_groq import ChatGroq
+from langchain-groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from tools_agent import web_search, scaraper_content
